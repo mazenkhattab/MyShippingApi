@@ -31,3 +31,4 @@ D:\MyShippingApi\obj\Debug\net8.0\refint\MyShippingApi.dll
 D:\MyShippingApi\obj\Debug\net8.0\MyShippingApi.pdb
 D:\MyShippingApi\obj\Debug\net8.0\MyShippingApi.genruntimeconfig.cache
 D:\MyShippingApi\obj\Debug\net8.0\ref\MyShippingApi.dll
+D:\MyShippingApi\obj\Debug\net8.0\MyShippingApi.sourcelink.json
